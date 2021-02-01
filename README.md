@@ -26,3 +26,5 @@
 |`xb1`|XBoxOne|
 |`swi`|Nintendo Switch|
 
+## License
+MIT license
