@@ -13,7 +13,7 @@
 - [Moment.js](https://momentjs.com/)
 
 ## How To Use
-1. Save [[src/CetusWidget.js]] to Scriptable.
+1. Save [src/CetusWidget.js](src/CetusWidget.js) to Scriptable.
 2. Set the **Medium Size** widget. 
 3. Edit the parameter to set your platform.
 
